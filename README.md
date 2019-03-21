@@ -114,5 +114,5 @@ Before we accept a non-trivial patch or pull request we will need you to sign th
 
 ## License
 
-Spring Cloud Connectors is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+Spring Cloud Connectors is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
 
